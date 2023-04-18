@@ -80,6 +80,11 @@ python train_lora.py
 
 ### Results
 
+| Epoch | Train Loss | Eval Loss  |
+|-------|------------|------------|
+| 1     | 12102.7285 |  2048.0518 |
+| 2     | 9318.9199  |  2033.5337 |
+
 ![image](assets/training_loss.png)
 
-Loss Trendline: y = -1.1981345834547134e-05x + 0.6018711605440453
+Loss Trendline: y = -1.1302001815753724e-05x + 0.73000991550589

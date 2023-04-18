@@ -1,4 +1,4 @@
-# Original Alpaca Dataset dataset located here: 
+# Original Alpaca dataset located here: 
 # https://github.com/gururise/AlpacaDataCleaned/raw/main/alpaca_data_cleaned.json
 
 import json
