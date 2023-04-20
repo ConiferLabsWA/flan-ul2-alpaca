@@ -18,7 +18,7 @@ def main():
     gradient_accumulation_steps = 8
     max_length = 512
     lr = 1e-4
-    num_epochs = 3
+    num_epochs = 1
     train_data = "./data/train.csv"
     test_data = "./data/test.csv"
 
