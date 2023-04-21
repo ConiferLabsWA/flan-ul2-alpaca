@@ -4,7 +4,7 @@ This repository contains code for leveraging the [Stanford Alpaca](https://githu
 
 ### Resource Considerations
 
-A goal of this project was to produce this model with a limited budget demonstrating the ability train a robust, commercially viable LLM using systems available to even small businesses and individuals. This had the added benefit of personally saving me money as well :). To achieve this a server was rented on [vultr.com](vultr.com) with the following pricing/specs:
+A goal of this project was to produce this model with a limited budget demonstrating the ability train a robust, LLM using systems available to even small businesses and individuals. This had the added benefit of personally saving me money as well :). To achieve this a server was rented on [vultr.com](vultr.com) with the following pricing/specs:
 - Pricing: $1.302/hour
 - OS: Ubuntu 22.10 x64
 - 6 vCPUs
