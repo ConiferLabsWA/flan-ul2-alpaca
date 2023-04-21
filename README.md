@@ -19,13 +19,6 @@ To dramatically reduce memory footprint and compute requirements [Low Rank Adapt
 - 8 Bit Mode: Yes
 
 
-### Why?
-
-Rapid recent advancements in the natural language processing (NLP) space have been extraordinary. Large Language Models (LLMs) like Meta's LLaMA are getting a lot of attention with their remarkable generative abilities however, many people are looking at the implications of these projects and looking for ways to leverage the technology in a commercial setting. Unfortunately, many LLMs (ie LLaMA, Vicuna) are limited by their licensing, restricting opportunities for usage within businesses and products.
-
-To address this issue, the entirely open-source [Flan-UL2 model](https://huggingface.co/google/flan-ul2), built by Google on the [Flan-T5](https://arxiv.org/abs/2210.11416) encoder-decoder framework, is an excellent alternative to LLMs with more restrictive licensing. Flan-UL2 is accessible for commercial applications and fine-tuned on academic NLP tasks, providing exceptional performance in comparison to models of similar size across various benchmarks. Additionally, with a receptive field of 2048 tokens it is suitable for a number of LLM tasks including [Retrieval Augmented Generation (RAG)](https://arxiv.org/abs/2005.11401).
-
-
 ### Environment Setup
 
 ```
